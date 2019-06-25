@@ -1,6 +1,6 @@
 #Crie Seu Bot
 
-Between No Glitch.com
+Between No https://glitch.com
 Use the following code
 
 ``// These var's are required.
